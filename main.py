@@ -1,7 +1,7 @@
 import streamlit as st
-from skimage.io import imread
+# from skimage.io import imread
 import matplotlib.pyplot as plt
-from skimage.transform import resize
+# from skimage.transform import resize
 import pickle
 import cv2
 from PIL import Image, ImageOps
