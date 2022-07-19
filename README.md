@@ -1,9 +1,7 @@
-# End To End Dead Star Image recognition using Transfer Learning Project
+# End To End Dead Star Image Classification using Transfer Learning Project
+![image](https://user-images.githubusercontent.com/73512374/179821295-c122f499-920a-456f-8270-2c38ea994413.png)
 
-![image](https://user-images.githubusercontent.com/73512374/179821169-4e2eb957-8082-49a0-98aa-fa4c9340829e.png)
-
-
-Title: SpaceObject Classification
+Title: Dead Star Image Classification
 
 Aim: Space Enthusiasts or students can classify between Black Hole,Pulsar Star,White Dwarfs using this App
 
