@@ -1,6 +1,6 @@
 # End To End Dead Star Image recognition using Transfer Learning Project
 
-![image](https://user-images.githubusercontent.com/73512374/179820722-87f7b49f-1f05-4468-b6e9-bfacb6fdcd08.png)
+![image](https://user-images.githubusercontent.com/73512374/179821169-4e2eb957-8082-49a0-98aa-fa4c9340829e.png)
 
 
 Title: SpaceObject Classification
