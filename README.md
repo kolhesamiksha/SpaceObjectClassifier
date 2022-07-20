@@ -15,9 +15,8 @@ Project Description:
 6. freezed the last layer of all models and added our own dense layers for performing our particular task. i.e. 3 class Classification.
 7. Used Image Augmentation to increase the dataset size by adding more examples to learn by including the parameters as zoom, slide, rotation, shear&flip etc.
 8. Tried over various epochs and improved the model performance.
-9. 
-
-
+9. used GridSearchCV() for fine tuning the model and the model that has given satisfactory and performed far better is VGG16 & Resnet50.
+10. After selecting the model. i've created a webapp using streamlit and deployed it over streamlit share.
 
 
 ![image](https://user-images.githubusercontent.com/73512374/179956826-9093249f-2114-4f78-a9f2-b22ed41dfb20.png)
@@ -44,6 +43,12 @@ Algorithms used:
 * MobileNet
 * ResNet50
 * SVC
+
+Model Performance:
+* Vgg16 : 
+* ResNet50 : 
+* MobileNet_v3 : 
+* SVC : 
 
 Here is my web app link :
 https://share.streamlit.io/kolhesamiksha/spaceobjectclassifier/main/main.py
