@@ -24,26 +24,26 @@ Project Description:
 
 
 Tools Used:
-Pycharm
-Google colab
-AWS
-streamlit
-github
+* Pycharm
+* Google colab
+* AWS
+* streamlit
+* github
 
 
 Libraries used:
-Tensorflow
-Pandas
-Numpy
-Matplotlib
-Seaborn
+* Tensorflow
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
 
 Algorithms used:
-Vgg16 CNN model
-Inception_v3
-MobileNet
-ResNet50
-SVC
+* Vgg16 CNN model
+* Inception_v3
+* MobileNet
+* ResNet50
+* SVC
 
 Here is my web app link :
 https://share.streamlit.io/kolhesamiksha/spaceobjectclassifier/main/main.py
