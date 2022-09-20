@@ -8,6 +8,7 @@ Aim: Space Enthusiasts or students can classify between Black Hole,Pulsar Star,W
 
 Project Description:
 
+
 1. collecetd 100 images of each classes from the web using bing-image-downloader.
 2. After collecting the images does preprocessing over them ie. resize, aligned their shapes etc.
 3. added some padding to improve the computation power of the model.
