@@ -1,8 +1,6 @@
 # End To End Dead Star Image Classification using Transfer Learning Project
 
-<img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png]" width="600" height="300">
-
-
+![super-necessary](https://user-images.githubusercontent.com/73512374/191225026-6ee82695-d220-49b8-ad4d-f2fb80c7513c.png)
 
 
 
