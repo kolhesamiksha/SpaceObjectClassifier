@@ -1,6 +1,7 @@
 # End To End Dead Star Image Classification using Transfer Learning Project
 
-![super-necessary](https://user-images.githubusercontent.com/73512374/191223378-3dec7f07-9ff3-4235-8769-a1588414f1e0.png)
+![super-necessary](https://user-images.githubusercontent.com/73512374/191223535-a514cda0-b056-413c-bb92-2d50a3ff3b50.png)
+
 
 
 Title: Dead Star Image Classification.
